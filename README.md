@@ -2,10 +2,6 @@
 <h3 align="center">A Computer Engineer from Türkiye</h3>
 
 
-- 👨‍💻 All of my projects are available at [serkanogutcuoglu.com](serkanogutcuoglu.com)
-
-- 💬 Ask me about **C#**
-
 - 📫 How to reach me **serkanogutcuogluu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
